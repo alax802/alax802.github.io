@@ -1,0 +1,3 @@
+[submodule "myhugotheme"]
+	path = myhugotheme
+	url = git@github.com:alax802/myhugotheme.git
