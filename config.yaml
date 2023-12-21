@@ -1,0 +1,13 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: alex.la
+theme: myhugotheme
+#sectionPagesMenu: main
+menu:
+  main:
+  - name: home
+    pageRef: /
+    weight: 10
+  - name: blog
+    pageRef: /posts
+    weight: 20
